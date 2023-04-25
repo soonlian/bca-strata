@@ -1,5 +1,4 @@
 collections:
   sample-layout:
     output: true
-    order:
-      - accordion.md
+    order: []
