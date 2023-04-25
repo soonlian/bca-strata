@@ -2,4 +2,4 @@ collections:
   resources:
     output: true
     order:
-      - Acts or Regulations.md
+      - acts or regulations.md
