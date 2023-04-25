@@ -4,11 +4,11 @@ links:
     url: /example-page/
   - title: Our Panel Members
     url: /our-panel-members
+  - title: Resources
+    collection: resources
   - title: Useful Links
     url: /useful-links
   - title: Careers
     url: /careers
   - title: Contact Us
     url: /contact-us/
-  - title: Example Folder
-    collection: example-folder
