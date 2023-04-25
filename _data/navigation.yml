@@ -1,8 +1,8 @@
 logo: /images/strata titles boards logo.png
 links:
+  - title: about us
+    url: /example-page/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Example Folder
     collection: example-folder
